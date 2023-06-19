@@ -28,3 +28,8 @@ let f1 = outerFunction();
 cl(f1)
 
 cl(f1())
+
+
+// Clousers 
+
+// A function with Lexical Scope is called as clouser
